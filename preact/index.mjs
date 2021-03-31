@@ -1,0 +1,1 @@
+import { h as r, Component as o, render as t } from "./preact10.5.10.module"; export { h, render, Component } from "./preact10.5.10.module"; import e from "./htm3.0.4.module"; var m = e.bind(r); export { m as html };
